@@ -1,0 +1,7 @@
+apiVersion: test.opsI/v1beta1
+kind: OpsIAction
+metadata:
+  name: example-opsiaction
+spec:
+  # Add fields here
+  size: 3
